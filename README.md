@@ -1,2 +1,3 @@
-# quoteMachine
-Simple quote machines using html,css,javascript and ajax
+# Daily Quotes
+Using html,css,javascript and ajax
+
